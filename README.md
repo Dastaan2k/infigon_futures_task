@@ -1,4 +1,4 @@
-# infigon_futures_task
+# Infigon Futures Task
 
 A new Flutter project.
 
